@@ -15,4 +15,6 @@ const page = (
     </div>
 );
 
-ReactDOM.render(page,document.getElementByID("root"))
+ReactDOM.render(page, document.getElementByID("root"))
+
+// Here are some changes
